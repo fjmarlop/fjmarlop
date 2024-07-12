@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Francisco Javier Marmolejo López</h1>
 <h2 align="center">Desarrollador de aplicaciones.</h2>
 
-<div align="center" style="Backgroundcolor:Green"><p align="right"><img src="https://www.fjmarlop.es/funko.png" alt="funko" width="200" height="300"/></p></div>
+< align="center" style="Backgroundcolor:Green"><p align="right"><img src="https://www.fjmarlop.es/funko.png" alt="funko" width="200" height="300"/></p>
 
 <h3 align="left">Sobre mi</h3>
 
@@ -16,8 +16,8 @@ Estoy interesado en el desarrollo de aplicaciones android nativo con Kotlin y Co
 <h3 align="left">Contacto</h3>
  - Os dejo el enlace a mi portfolio <a href="https://www.fjmarlop.es">www.fjmarlop.es</a>
  <p>
- <a href="mailto:contacto@fjmarlop.es">contacto@fjmarlop.es</a><br>
- <a href="mailto:fjmarlop@hotmail.com">fjmarlop@hotmail.com</a>
+ - <a href="mailto:contacto@fjmarlop.es">contacto@fjmarlop.es</a><br>
+ - <a href="mailto:fjmarlop@hotmail.com">fjmarlop@hotmail.com</a>
  </p>
 
 <h3 align="left">Algunas de mis habiliades:</h3>
