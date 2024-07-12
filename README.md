@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Francisco Javier Marmolejo López</h1>
 <h2 align="center">Desarrollador de aplicaciones.</h2>
 
-<p align="right"><img src="https://www.fjmarlop.es/funko.png" alt="funko" width="300" height="300"/>
+<p align="right" style="bgcolor:#572364"><img src="https://www.fjmarlop.es/funko.png" alt="funko" width="200" height="300"/>
 
 <h3 align="left">Sobre mi</h3>
 
