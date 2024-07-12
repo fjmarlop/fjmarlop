@@ -9,16 +9,17 @@
          Estoy interesado en el desarrollo de aplicaciones android nativo con Kotlin y Compose pero estoy abierto a nuevos retos en cualquier stack.
    </p>
 
-   <h3 align="center" style="text-color:Green">#OpenToWork</h3>
+   <h3 align="center" style="tcolor:Green">#OpenToWork</h3>
 
-         - Tecnico Superior en diseño de aplicaciones multiplataforma.
-         - Actualmente sigo aprendiendo y desarrollando apps. **Kotlin, JetPack Compose, Firebase**
+   - Tecnico Superior en diseño de aplicaciones multiplataforma.
+   - Actualmente sigo aprendiendo y desarrollando apps. **Kotlin, JetPack Compose, Firebase**
+
    <h3 align="left">Contacto</h3>
-          - Os dejo el enlace a mi portfolio <a href="https://www.fjmarlop.es">www.fjmarlop.es</a>
-   <p>
+   
+   - Mi portfolio <a href="https://www.fjmarlop.es">www.fjmarlop.es</a><br>
    - <a href="mailto:contacto@fjmarlop.es">contacto@fjmarlop.es</a><br>
    - <a href="mailto:fjmarlop@hotmail.com">fjmarlop@hotmail.com</a>
-   </p>
+   
 
 <h3 align="left">Algunas de mis habiliades:</h3>
 
