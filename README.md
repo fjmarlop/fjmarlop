@@ -1,9 +1,3 @@
-<Style>
-   .mainContent {
-      display: flex;
-      flex-direction: row;
-   }
-</Style>
 
 <h1 align="center">Hola 👋, soy Francisco Javier Marmolejo López</h1>
 <h2 align="center">Desarrollador de aplicaciones.</h2>
@@ -11,21 +5,20 @@
 <div class="mainContent">
    <div>
    <h3 align="left">Sobre mi</h3>
+   <p align="left">
+         Estoy interesado en el desarrollo de aplicaciones android nativo con Kotlin y Compose pero estoy abierto a nuevos retos en cualquier stack.
+   </p>
 
-<p align="left">
-Estoy interesado en el desarrollo de aplicaciones android nativo con Kotlin y Compose pero estoy abierto a nuevos retos en cualquier stack.
+   <h3 align="center" style="text-color:Green">#OpenToWork</h3>
 
-<h3 align="left" style="color:Green">#OpenToWork</h3>
-
-- Tecnico Superior en diseño de aplicaciones multiplataforma.
-- Actualmente sigo aprendiendo y desarrollando apps. **Kotlin, JetPack Compose, Firebase**
-
-<h3 align="left">Contacto</h3>
- - Os dejo el enlace a mi portfolio <a href="https://www.fjmarlop.es">www.fjmarlop.es</a>
- <p>
- - <a href="mailto:contacto@fjmarlop.es">contacto@fjmarlop.es</a><br>
- - <a href="mailto:fjmarlop@hotmail.com">fjmarlop@hotmail.com</a>
- </p>
+         - Tecnico Superior en diseño de aplicaciones multiplataforma.
+         - Actualmente sigo aprendiendo y desarrollando apps. **Kotlin, JetPack Compose, Firebase**
+   <h3 align="left">Contacto</h3>
+          - Os dejo el enlace a mi portfolio <a href="https://www.fjmarlop.es">www.fjmarlop.es</a>
+   <p>
+   - <a href="mailto:contacto@fjmarlop.es">contacto@fjmarlop.es</a><br>
+   - <a href="mailto:fjmarlop@hotmail.com">fjmarlop@hotmail.com</a>
+   </p>
 
 <h3 align="left">Algunas de mis habiliades:</h3>
 
