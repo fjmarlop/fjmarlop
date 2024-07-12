@@ -1,14 +1,12 @@
 <Style>
    .mainContent {
       display: flex;
+      flex-direction: row;
    }
 </Style>
 
 <h1 align="center">Hola 👋, soy Francisco Javier Marmolejo López</h1>
 <h2 align="center">Desarrollador de aplicaciones.</h2>
-
-
-
 
 <div class="mainContent">
    <div>
