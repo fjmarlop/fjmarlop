@@ -1,9 +1,18 @@
+<Style>
+   .mainContent {
+      display: flex;
+   }
+</Style>
+
 <h1 align="center">Hola 👋, soy Francisco Javier Marmolejo López</h1>
 <h2 align="center">Desarrollador de aplicaciones.</h2>
 
-<p align="right"><img src="https://www.fjmarlop.es/funko.png" alt="funko" width="200" height="300"/></p>
 
-<h3 align="left">Sobre mi</h3>
+
+
+<div class="mainContent">
+   <div>
+   <h3 align="left">Sobre mi</h3>
 
 <p align="left">
 Estoy interesado en el desarrollo de aplicaciones android nativo con Kotlin y Compose pero estoy abierto a nuevos retos en cualquier stack.
@@ -27,5 +36,8 @@ Estoy interesado en el desarrollo de aplicaciones android nativo con Kotlin y Co
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>   
  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 
-  
 </p>
+   </div>
+   <div><p align="right"><img src="https://www.fjmarlop.es/funko.png" alt="funko" width="200" height="300"/></p></div>
+</div>
+
