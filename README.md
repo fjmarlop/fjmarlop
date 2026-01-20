@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Desarrollador Android | Especialista en Ciberseguridad
+### Desarrollador Android | Analista de Ciberseguridad
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-www.fjmarlop.es-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.fjmarlop.es)
 [![Email](https://img.shields.io/badge/Email-contacto@fjmarlop.es-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@fjmarlop.es)
